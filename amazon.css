@@ -12,3 +12,17 @@ a{
     text-decoration: none;
     color:inherit;
 }
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:black;
+    padding: 10px 20px;
+}
+.nav-country{
+    display: flex;
+    align-items: end;
+    margin-left: 10px;
+    font-size: 10px;
+    color: antiquewhite;
+}
